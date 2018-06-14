@@ -1,0 +1,10 @@
+E:\Project explorer\WindowsDesktop\WindowsDesktop\bin\Debug\WindowsDesktop.exe.config
+E:\Project explorer\WindowsDesktop\WindowsDesktop\bin\Debug\WindowsDesktop.exe
+E:\Project explorer\WindowsDesktop\WindowsDesktop\bin\Debug\WindowsDesktop.pdb
+E:\Project explorer\WindowsDesktop\WindowsDesktop\obj\Debug\WindowsDesktop.WindowsDesktop.resources
+E:\Project explorer\WindowsDesktop\WindowsDesktop\obj\Debug\WindowsDesktop.Properties.Resources.resources
+E:\Project explorer\WindowsDesktop\WindowsDesktop\obj\Debug\WindowsDesktop.csproj.GenerateResource.Cache
+E:\Project explorer\WindowsDesktop\WindowsDesktop\obj\Debug\WindowsDesktop.csproj.CoreCompileInputs.cache
+E:\Project explorer\WindowsDesktop\WindowsDesktop\obj\Debug\WindowsDesktop.exe
+E:\Project explorer\WindowsDesktop\WindowsDesktop\obj\Debug\WindowsDesktop.pdb
+E:\Project explorer\WindowsDesktop\WindowsDesktop\obj\Debug\WindowsDesktop.csprojResolveAssemblyReference.cache
